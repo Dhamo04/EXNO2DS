@@ -118,7 +118,16 @@ plt.show()
 
 # RESULT
 
+<img width="784" height="531" alt="image" src="https://github.com/user-attachments/assets/b03e5574-4c78-4348-bcf9-688bba5fca75" />
 
+
+<img width="758" height="514" alt="image" src="https://github.com/user-attachments/assets/5bf848e0-77de-42f0-9fa4-c8d8344fc02d" />
+
+
+<img width="762" height="556" alt="image" src="https://github.com/user-attachments/assets/c51d2023-3d6d-481b-9c9f-25141e21c523" />
+
+
+<img width="749" height="588" alt="image" src="https://github.com/user-attachments/assets/61a2025b-a93c-417d-91c1-96c848030dc7" />
 
 
                               
